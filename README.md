@@ -1,4 +1,4 @@
-[![travis build](https://img.shields.io/travis/qjacquet/node-swagger-mongo-starter.svg?style=flat-square)](https://travis-ci.org/qjacquet/node-swagger-mongo-starter/builds)
+[![Build Status](https://travis-ci.org/qjacquet/node-swagger-mongo-starter.svg?branch=master)](https://travis-ci.org/qjacquet/node-swagger-mongo-starter)
 [![codecov](https://codecov.io/gh/qjacquet/node-swagger-mongo-starter/branch/master/graph/badge.svg)](https://codecov.io/gh/qjacquet/node-swagger-mongo-starter)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
 # Swagger.io - NodeJS - MongoDB Starter 
